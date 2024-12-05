@@ -6,7 +6,8 @@ This repo also contains creating UI for QA Inference application via streamlit
 - LM.py contains relevant functions for pre-processing dataset, creating DataLoader, loading models, and computing metrics
 - app.py contains adding UI for the QA Inference application via streamlit
 
-## QA Models Performance Evaluation
+## QA Models Performance Evaluation Before Fine-tuning
 ![Evaluation on SQuAD metrics before fine-tuning](output/QAModels_Evaluation.png)
 
+## QA Models Performance Evaluation After Fine-tuning
 ![Evaluation on SQuAD metrics after fine-tuning](output/QAModels_Evaluation_fine_tuning.png)
